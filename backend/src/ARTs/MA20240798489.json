@@ -1,0 +1,21 @@
+{
+    "numero": "MA20240798489",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "Cadastral ",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "Instalação de sistema de split em um prédio comercial.",
+    "qtdAtividades": 1,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "MECÂNICA > SISTEMAS TÉRMICOS > DE SISTEMAS TÉRMICOS > #16.2.1.4 - DE CONDICIONAMENTO DE AR",
+            "atividade_servico": "14 - Condução de equipe de instalação",
+            "quantidade": "3,00",
+            "unidade_medida": "unidade "
+        }
+    ]
+}

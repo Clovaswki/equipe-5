@@ -1,0 +1,28 @@
+{
+    "numero": "MA20240798474",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "SEM DEFINIÇÃO",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "Elaboração de projeto de função e estruturas metálicas.",
+    "qtdAtividades": 2,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Elaboração",
+            "atividade_subordinada": "ESTRUTURAS > FUNDAÇÕES > DE FUNDAÇÕES PROFUNDAS > #2.9.2.3 - EM ESTACAS DE CONCRETO MOLDADAS IN LOCO",
+            "atividade_servico": "80 - Projeto",
+            "quantidade": "3,00",
+            "unidade_medida": "metro cúbico "
+        },
+        {
+            "nivel": "Elaboração",
+            "atividade_subordinada": "ESTRUTURAS > ESTRUTURAS METÁLICAS > DE ESTRUTURA METÁLICA > #2.2.1.7 - PARA FINS DIVERSOS",
+            "atividade_servico": "80 - Projeto",
+            "quantidade": "3,00",
+            "unidade_medida": "metro cúbico "
+        }
+    ]
+}

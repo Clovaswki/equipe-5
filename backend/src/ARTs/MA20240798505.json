@@ -1,0 +1,21 @@
+{
+    "numero": "MA20240798505",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "SEM DEFINIÇÃO",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "IRRIGAÇÃO",
+    "qtdAtividades": 1,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "ELETROTÉCNICA > IMPACTOS ENERGÉTICOS AO MEIO AMBIENTE > #11.8.1 - DE IMPACTOS ENERGÉTICOS",
+            "atividade_servico": "55 - Execução de serviço técnico",
+            "quantidade": "120.000,00",
+            "unidade_medida": "metro quadrado"
+        }
+    ]
+}

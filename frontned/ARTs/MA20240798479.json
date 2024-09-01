@@ -1,0 +1,42 @@
+{
+    "numero": "MA20240798479",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "SEM DEFINIÇÃO",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "Projeto e execução de rede lógica e instalações elétricas em baixa tensão para uma edificação comercial. Elaboração de projeto das instalações hidrossanitárias e projeto de localização de equipamentos de combate a incêndio. ",
+    "qtdAtividades": 4,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Elaboração",
+            "atividade_subordinada": "ELETROTÉCNICA > INSTALAÇÕES ELÉTRICAS > DE LIGAÇÃO INDIVIDUAL DE REDE DE ENERGIA > #11.10.10.3 - EM BAIXA TENSÃO PARA FINS RESIDENCIAIS E COMERCIAIS",
+            "atividade_servico": "80 - Projeto",
+            "quantidade": "250,00",
+            "unidade_medida": "metro quadrado"
+        },
+        {
+            "nivel": "Elaboração",
+            "atividade_subordinada": "ELETRÔNICA > SISTEMAS E EQUIPAMENTOS DE REDES LÓGICAS > #12.6.1 - DE SISTEMAS DE REDES",
+            "atividade_servico": "80 - Projeto",
+            "quantidade": "250,00",
+            "unidade_medida": "metro quadrado"
+        },
+        {
+            "nivel": "Elaboração",
+            "atividade_subordinada": "CONSTRUÇÃO CIVIL > INSTALAÇÕES HIDROSSANITÁRIAS > #1.4.2 - DE SISTEMA DE REDES DE ÁGUAS PLUVIAIS",
+            "atividade_servico": "80 - Projeto",
+            "quantidade": "250,00",
+            "unidade_medida": "metro quadrado"
+        },
+        {
+            "nivel": "Elaboração",
+            "atividade_subordinada": "CONSTRUÇÃO CIVIL > INSTALAÇÕES DE PREVENÇÃO E COMBATE A INCÊNDIO > #1.6.6 - DE PREVENÇÃO E COMBATE A INCÊNDIO E PÂNICO",
+            "atividade_servico": "80 - Projeto",
+            "quantidade": "250,00",
+            "unidade_medida": "metro quadrado"
+        }
+    ]
+}

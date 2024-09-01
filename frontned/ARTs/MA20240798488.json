@@ -1,0 +1,21 @@
+{
+    "numero": "MA20240798488",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "SEM DEFINIÇÃO",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "Manutenção de sistemas de ar-condicionado. ",
+    "qtdAtividades": 1,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "MECÂNICA > SISTEMAS TÉRMICOS > DE SISTEMAS TÉRMICOS > #16.2.1.6 - DE VENTILAÇÃO",
+            "atividade_servico": "68 - Manutenção de equipamento",
+            "quantidade": "3,00",
+            "unidade_medida": "unidade "
+        }
+    ]
+}

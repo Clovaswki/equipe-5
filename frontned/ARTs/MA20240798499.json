@@ -1,0 +1,21 @@
+{
+    "numero": "MA20240798499",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "SEM DEFINIÇÃO",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "Coleta de lixo do município de São Luís - MA.",
+    "qtdAtividades": 1,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Condução de equipe",
+            "atividade_subordinada": "SANEAMENTO AMBIENTAL > SISTEMA DE ESGOTO/RESÍDUOS > DE COLETA DE RESÍDUOS SÓLIDOS > #6.2.2.1 - DOMICILIARES E DE LIMPEZA URBANA",
+            "atividade_servico": "17 - Condução de equipe de operação",
+            "quantidade": "230,00",
+            "unidade_medida": "tonelada "
+        }
+    ]
+}

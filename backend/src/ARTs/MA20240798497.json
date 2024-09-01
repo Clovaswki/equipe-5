@@ -1,0 +1,21 @@
+{
+    "numero": "MA20240798497",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "Saneamento básico ",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "Prestação de serviço de tratamento de água",
+    "qtdAtividades": 1,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "CONSTRUÇÃO CIVIL > INSTALAÇÕES HIDROSSANITÁRIAS > #1.4.1 - DE SISTEMA DE ÁGUA POTÁVEL",
+            "atividade_servico": "55 - Execução de serviço técnico",
+            "quantidade": "500,00",
+            "unidade_medida": "litro"
+        }
+    ]
+}

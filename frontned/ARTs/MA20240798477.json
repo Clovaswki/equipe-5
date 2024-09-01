@@ -1,0 +1,21 @@
+{
+    "numero": "MA20240798477",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "Misto",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "Construção de uma residência Unifamiliar.",
+    "qtdAtividades": 1,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Fiscalização",
+            "atividade_subordinada": "AGRIMENSURA > LOCAÇÃO DE OBRAS CIVIS > DE LOCAÇÃO TOPOGRÁFICA > #36.9.1.1 - DE OBRAS CIVIS",
+            "atividade_servico": "11 - Coleta de dados",
+            "quantidade": "1,00",
+            "unidade_medida": "metro quadrado"
+        }
+    ]
+}

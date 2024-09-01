@@ -1,0 +1,42 @@
+{
+    "numero": "MA20240798491",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "Ambiental ",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "ASSOCIAÇÃO MARANHENSE DOS ENGENHEIROS AMBIENTAIS",
+    "forma_registro": "INICIAL",
+    "observacao": "COLETA DE LIXO. GESTÃO INTEGRADA DE RESIDUOS SOLIDOS. CONFORME CONTRATO. PARA A PREFEITURA DE BELO HORIZONTE ",
+    "qtdAtividades": 4,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "SANEAMENTO AMBIENTAL > SISTEMA DE ESGOTO/RESÍDUOS > DE COLETA DE RESÍDUOS SÓLIDOS > #6.2.2.4 - DA CONSTRUÇÃO CIVIL",
+            "atividade_servico": "55 - Execução de serviço técnico",
+            "quantidade": "2,00",
+            "unidade_medida": "tonelada por mês "
+        },
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "SANEAMENTO AMBIENTAL > SISTEMA DE ESGOTO/RESÍDUOS > DE COLETA DE RESÍDUOS SÓLIDOS > #6.2.2.3 - DE SERVIÇOS DE SAÚDE",
+            "atividade_servico": "55 - Execução de serviço técnico",
+            "quantidade": "2,00",
+            "unidade_medida": "tonelada por mês "
+        },
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "SANEAMENTO AMBIENTAL > SISTEMA DE ESGOTO/RESÍDUOS > DE COLETA DE RESÍDUOS SÓLIDOS > #6.2.2.1 - DOMICILIARES E DE LIMPEZA URBANA",
+            "atividade_servico": "55 - Execução de serviço técnico",
+            "quantidade": "2,00",
+            "unidade_medida": "tonelada por mês "
+        },
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "SANEAMENTO AMBIENTAL > SISTEMA DE ESGOTO/RESÍDUOS > DE COLETA DE RESÍDUOS SÓLIDOS > #6.2.2.2 - INDUSTRIAIS",
+            "atividade_servico": "55 - Execução de serviço técnico",
+            "quantidade": "2,00",
+            "unidade_medida": "tonelada por mês "
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "numero": "MA20240798476",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "Industrial ",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "Direção de obra de uma edificação comercial de 3 pavimentos com elaboração e execução de combate a incêndio. ",
+    "qtdAtividades": 2,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Direção de obra",
+            "atividade_subordinada": "CONSTRUÇÃO CIVIL > EDIFICAÇÕES > DE ACESSIBILIDADE DE EDIFICAÇÃO > #1.1.3.2 - PARA FINS COMERCIAIS",
+            "atividade_servico": "17 - Condução de equipe de operação",
+            "quantidade": "500,00",
+            "unidade_medida": "metro quadrado"
+        },
+        {
+            "nivel": "Direção de obra",
+            "atividade_subordinada": "CONSTRUÇÃO CIVIL > INSTALAÇÕES DE PREVENÇÃO E COMBATE A INCÊNDIO > #1.6.6 - DE PREVENÇÃO E COMBATE A INCÊNDIO E PÂNICO",
+            "atividade_servico": "17 - Condução de equipe de operação",
+            "quantidade": "500,00",
+            "unidade_medida": "metro quadrado"
+        }
+    ]
+}

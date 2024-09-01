@@ -1,0 +1,21 @@
+{
+    "numero": "MA20240798481",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "Outro",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "Serviço iluminação publica nos portes de Paço de Lumiar. ",
+    "qtdAtividades": 1,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "ATIVIDADES NA ÁREA DA ENGENHARIA TÊXTIL > PRODUTOS E PROCESSOS DA INDÚSTRIA TÊXTIL > DE PRODUTOS DA INDÚSTRIA TÊXTIL > #25.1.1.6 - MALHAS",
+            "atividade_servico": "17 - Condução de equipe de operação",
+            "quantidade": "2.500,00",
+            "unidade_medida": "unidade "
+        }
+    ]
+}

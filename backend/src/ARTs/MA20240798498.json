@@ -1,0 +1,21 @@
+{
+    "numero": "MA20240798498",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "Industrial ",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "instalação de gerador de energia",
+    "qtdAtividades": 1,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "MECÂNICA > INSTALAÇÕES, EQUIPAMENTOS, DISPOSITIVOS E COMPONENTES DA ENGENHARIA MECÂNICA: MECÂNICOS, ELETROMECÂNICOS, MAGNÉTICOS, ÓPTICOS > #16.7.8 - DE GERADOR DE ENERGIA ELÉTRICA",
+            "atividade_servico": "46 - Execução de instalação",
+            "quantidade": "1,00",
+            "unidade_medida": "unidade "
+        }
+    ]
+}

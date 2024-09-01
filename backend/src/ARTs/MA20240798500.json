@@ -1,0 +1,21 @@
+{
+    "numero": "MA20240798500",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "Agrícola ",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "Instalação de rede elétrica na zona rural para atender as fazendas Boa Esperança e São Pedro. ",
+    "qtdAtividades": 1,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "MEIO AMBIENTE > TECNOLOGIA AMBIENTAL > #7.5.1 - DE TECNOLOGIA AMBIENTAL",
+            "atividade_servico": "55 - Execução de serviço técnico",
+            "quantidade": "1.500,00",
+            "unidade_medida": "volt por metro "
+        }
+    ]
+}

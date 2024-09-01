@@ -1,0 +1,28 @@
+{
+    "numero": "MA20240798492",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "Residencial ",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "Execução e Supervisão de obra residencial",
+    "qtdAtividades": 2,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "CONSTRUÇÃO CIVIL > EDIFICAÇÕES > DE ACESSIBILIDADE DE EDIFICAÇÃO > #1.1.3.1 - PARA FINS RESIDENCIAIS",
+            "atividade_servico": "49 - Execução de obra",
+            "quantidade": "241,50",
+            "unidade_medida": "metro quadrado"
+        },
+        {
+            "nivel": "Fiscalização",
+            "atividade_subordinada": "CONSTRUÇÃO CIVIL > EDIFICAÇÕES > DE ACESSIBILIDADE DE EDIFICAÇÃO > #1.1.3.1 - PARA FINS RESIDENCIAIS",
+            "atividade_servico": "60 - Fiscalização de obra",
+            "quantidade": "241,50",
+            "unidade_medida": "metro quadrado"
+        }
+    ]
+}

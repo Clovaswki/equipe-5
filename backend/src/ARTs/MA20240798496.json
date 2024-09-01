@@ -1,0 +1,21 @@
+{
+    "numero": "MA20240798496",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "Industrial ",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "FABRICAÇÃO DE PEÇAS METÁLICAS.",
+    "qtdAtividades": 1,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "CONSTRUÇÃO CIVIL > EDIFICAÇÕES > DE EDIFICAÇÃO > #1.1.1.3 - EM SISTEMA PRÉ-FABRICADO",
+            "atividade_servico": "45 - Execução de fabricação",
+            "quantidade": "5,00",
+            "unidade_medida": "unidade "
+        }
+    ]
+}

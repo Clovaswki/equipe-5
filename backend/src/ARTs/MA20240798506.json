@@ -1,0 +1,21 @@
+{
+    "numero": "MA20240798506",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "Ambiental ",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "ATAEMA - ASSOCIACAO TEC. AGRICOLA DO MA",
+    "forma_registro": "INICIAL",
+    "observacao": "fabricação e execução de treliças.  ",
+    "qtdAtividades": 1,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "AGRONOMIA, AGRÍCOLA, FLORESTAL, PESCA E AQUICULTURA > FITOTECNIA E FITOSSANIDADE > DE CULTIVO/PRODUÇÃO > #39.1.1.12 - DE ESPÉCIES FLORESTAIS",
+            "atividade_servico": "46 - Execução de instalação",
+            "quantidade": "3,14",
+            "unidade_medida": "hora por mês"
+        }
+    ]
+}

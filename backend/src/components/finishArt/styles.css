@@ -1,0 +1,8 @@
+.finishArt{
+    background-color: #ffff;
+    box-shadow: 1px 3px 3px;
+    width: 100%;
+    height: 100vh;
+    border-radius: 5px;
+    padding: 10px;
+}

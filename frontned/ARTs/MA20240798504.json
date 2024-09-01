@@ -1,0 +1,21 @@
+{
+    "numero": "MA20240798504",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "Ambiental ",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "Terraplanagem na av. juriquiti na cidade de jalequamara-ma.",
+    "qtdAtividades": 1,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "GEOTECNIA E GEOLOGIA DA ENGENHARIA > OBRAS DE TERRA > DE OBRAS DE TERRA > #3.3.1.9 - TERRAPLENAGEM",
+            "atividade_servico": "49 - Execução de obra",
+            "quantidade": "98,00",
+            "unidade_medida": "metro"
+        }
+    ]
+}

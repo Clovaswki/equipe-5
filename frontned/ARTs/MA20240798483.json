@@ -1,0 +1,21 @@
+{
+    "numero": "MA20240798483",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "Ambiental ",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "ASSOCIAÇÃO MARANHENSE DOS ENGENHEIROS AMBIENTAIS",
+    "forma_registro": "INICIAL",
+    "observacao": "DESENVOLVIMENTO/FABRICAÇÃO DE PRODUTOS QUIMICOS PARA TRATAMENTO DE EFLUENTES. ",
+    "qtdAtividades": 1,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "MECÂNICA > INSTALAÇÕES, EQUIPAMENTOS, DISPOSITIVOS E COMPONENTES DA ENGENHARIA MECÂNICA: MECÂNICOS, ELETROMECÂNICOS, MAGNÉTICOS, ÓPTICOS > #16.7.6 - DE EQUIPAMENTOS PARA TRATAMENTO DE EFLUENTES",
+            "atividade_servico": "28 - Desenvolvimento",
+            "quantidade": "7,00",
+            "unidade_medida": "unidade "
+        }
+    ]
+}

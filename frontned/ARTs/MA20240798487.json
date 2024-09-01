@@ -1,0 +1,21 @@
+{
+    "numero": "MA20240798487",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "Outro",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "Atividade de manutenção em subestação elétrica- na Eletronorte Ltda. ",
+    "qtdAtividades": 1,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "AGRONOMIA, AGRÍCOLA, FLORESTAL, PESCA E AQUICULTURA > CONSTRUÇÕES PARA FINS AGROPECUÁRIOS,  AGROINDUSTRIAIS, AQUÍCOLAS E FLORESTAIS > #39.27.2 - DE REDE HIDROSANITÁRIA PARA FINS RURAIS",
+            "atividade_servico": "20 - Condução de equipe de reparo",
+            "quantidade": "1,00",
+            "unidade_medida": "unidade "
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "numero": "MA20240798502",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "SEM DEFINIÇÃO",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "Execução de açude de peixes para fazendo boa terra.",
+    "qtdAtividades": 1,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "AGRONOMIA, AGRÍCOLA, FLORESTAL, PESCA E AQUICULTURA > MANEJO DE BACIAS HIDROGRÁFICAS > #39.30.2 - DE CAPTAÇÃO DE ÁGUA PARA FINS RURAIS",
+            "atividade_servico": "49 - Execução de obra",
+            "quantidade": "10.000,00",
+            "unidade_medida": "litro"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "numero": "MA20240798485",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "Outro",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "TESTE ESTANQUEIDADE EM TANQUES DE COMBUSTIVEIS.EM NAVIOS ",
+    "qtdAtividades": 1,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "ATIVIDADES DA ÁREA NAVAL E OCEÂNICA > TECNOLOGIA NAVAL - INSTALAÇÕES, EQUIPAMENTOS, DISPOSITIVOS E COMPONENTES > DE TECNOLOGIA NAVAL > #18.6.1.10 - TESTES DE ESTANQUEIDADE EM TUBULAÇÕES/DUTOS NAVAIS",
+            "atividade_servico": "17 - Condução de equipe de operação",
+            "quantidade": "1,00",
+            "unidade_medida": "unidade "
+        }
+    ]
+}

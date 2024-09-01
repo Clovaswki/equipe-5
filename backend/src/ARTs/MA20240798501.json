@@ -1,0 +1,21 @@
+{
+    "numero": "MA20240798501",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "Outro",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "FABRICAÇÃO DE ESTRUTURA METÁLICA PARA APOIO DE PLACA SOLAR .NO ESTADO DE MINAS GERAIS",
+    "qtdAtividades": 1,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "ELETROTÉCNICA > SISTEMAS DE ENERGIA ELÉTRICA > DE ELETRIFICAÇÃO > #11.9.22.1 - FERROVIÁRIA",
+            "atividade_servico": "45 - Execução de fabricação",
+            "quantidade": "200,00",
+            "unidade_medida": "metro quadrado"
+        }
+    ]
+}

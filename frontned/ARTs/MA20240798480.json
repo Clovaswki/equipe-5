@@ -1,0 +1,35 @@
+{
+    "numero": "MA20240798480",
+    "tipoArt": "OBRA / SERVIÇO",
+    "finalidade": "SEM DEFINIÇÃO",
+    "participacao_tecnica": "INDIVIDUAL",
+    "entidade": "SEM INDICACAO DE ENTIDADE DE CLASSE",
+    "forma_registro": "INICIAL",
+    "observacao": "Relatório anal de combate a incêndio do quiosque e construção de praça pública.",
+    "qtdAtividades": 3,
+    "qtdArtsVinculadasParticipacaoTecnica": 0,
+    "qtdArtsVinculadasFormaRegistro": 0,
+    "atividades": [
+        {
+            "nivel": "Elaboração",
+            "atividade_subordinada": "CONSTRUÇÃO CIVIL > INSTALAÇÕES DE PREVENÇÃO E COMBATE A INCÊNDIO > #1.6.6 - DE PREVENÇÃO E COMBATE A INCÊNDIO E PÂNICO",
+            "atividade_servico": "2 - Análise",
+            "quantidade": "12,00",
+            "unidade_medida": "metro quadrado"
+        },
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "ELETROTÉCNICA > INSTALAÇÕES ELÉTRICAS > DE CABLAGEM PARA INSTALAÇÕES ELÉTRICAS EM BAIXA TENSÃO > #11.10.3.2 - PARA FINS COMERCIAIS",
+            "atividade_servico": "49 - Execução de obra",
+            "quantidade": "600,00",
+            "unidade_medida": "metro quadrado"
+        },
+        {
+            "nivel": "Execução",
+            "atividade_subordinada": "TRANSPORTES > INFRAESTRUTURA URBANA > DE PAVIMENTAÇÃO > #4.2.1.3 - EM PARALELEPÍPEDO PARA VIAS URBANAS",
+            "atividade_servico": "49 - Execução de obra",
+            "quantidade": "600,00",
+            "unidade_medida": "metro quadrado"
+        }
+    ]
+}
